@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>gcorderform</name>
+    <displayName><![CDATA[Order Form]]></displayName>
+    <version><![CDATA[4.0.8]]></version>
+    <description><![CDATA[Add an order form which makes your customers order quicker and easier.]]></description>
+    <author><![CDATA[Gr&eacute;gory Chartier]]></author>
+    <tab><![CDATA[checkout]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

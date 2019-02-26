@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{gcorderform}prestashop>default_a9caefc9d25556ac606151a7e2176cd2'] = 'Has seleccionado productos, ¿te gustaría añadirlos al carrito?';
+$_MODULE['<{gcorderform}prestashop>default_2d0f6b8300be19cf35e89e66f0677f95'] = 'Agregar al Carrito';
+$_MODULE['<{gcorderform}prestashop>default_020399910a4e478e18c8554a91568e37'] = 'la mínima cantidad para la venta es:';
+$_MODULE['<{gcorderform}prestashop>default_f4875ed3f1b3101b4f59bc324f0bb14f'] = 'La cantidad debe ser menor o igual a: ';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-1_be53a0541a6d36f6ecb879fa2c584b08'] = 'Imagen';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-1_49ee3087348e8d44e1feda1917443987'] = 'Nombre';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-1_27ce7f8b5623b2e2df568d64cf051607'] = 'Disponibilidad';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-1_694e8d1f2ee056f98ee488bdc4982d73'] = 'Cantidad';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-1_3601146c4e948c32b6424d2c0a7f0118'] = 'Precio';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-1_2d0f6b8300be19cf35e89e66f0677f95'] = 'Agregar y Comprar';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-2_be53a0541a6d36f6ecb879fa2c584b08'] = 'Imagen';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-2_49ee3087348e8d44e1feda1917443987'] = 'Nombre';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-2_27ce7f8b5623b2e2df568d64cf051607'] = 'Disponibilidad';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-2_694e8d1f2ee056f98ee488bdc4982d73'] = 'Cantidad';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-2_3601146c4e948c32b6424d2c0a7f0118'] = 'Precio';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-2_2d0f6b8300be19cf35e89e66f0677f95'] = 'Agregar y Comprar';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-3_853910f6fc5286570ef8baa02478a1ab'] = 'Formulario de Ordenes';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-3_9ea528c72aaadcb95f85ce06a96b8e20'] = 'Subcategorias';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-3_27ce7f8b5623b2e2df568d64cf051607'] = 'Disponibilidad';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-3_2d0f6b8300be19cf35e89e66f0677f95'] = 'Agregar Al Carrito';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-old-1_be53a0541a6d36f6ecb879fa2c584b08'] = 'Imagen';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-old-1_49ee3087348e8d44e1feda1917443987'] = 'Nombre';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-old-1_27ce7f8b5623b2e2df568d64cf051607'] = 'Disponibilidad';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-old-1_694e8d1f2ee056f98ee488bdc4982d73'] = 'Cantidad';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-old-1_3601146c4e948c32b6424d2c0a7f0118'] = 'Precio';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-old-1_ec211f7c20af43e742bf2570c3cb84f9'] = 'Agregar';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-old-1_2d0f6b8300be19cf35e89e66f0677f95'] = 'Agregar al carrito';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-old-2_5e23a9b493b594b325e5fd1dfb6eab5e'] = 'Sabores';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-old-2_27ce7f8b5623b2e2df568d64cf051607'] = 'Disponibilidad';
+$_MODULE['<{gcorderform}prestashop>gcorderform-form-old-2_2d0f6b8300be19cf35e89e66f0677f95'] = 'Agregar al Carrito';
